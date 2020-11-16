@@ -1,1 +1,1 @@
-# pygame
+# pygame learn from NadoCoding, Inflearn
